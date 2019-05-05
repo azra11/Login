@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344598945840",
+    "firebase_url": "https://login-4f071.firebaseio.com",
+    "project_id": "login-4f071",
+    "storage_bucket": "login-4f071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344598945840:android:f27eba69dbe0352d",
+        "android_client_info": {
+          "package_name": "com.example.admin.loginmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344598945840-t69ccs14agtgrink9apgg1brtq00doa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAE7LIBqcrpDYOSD0J1_x3GaH_zPTMGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344598945840-t69ccs14agtgrink9apgg1brtq00doa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
